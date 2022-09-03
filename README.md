@@ -1,2 +1,2 @@
-# google-maps-get-data-layer-property-example
+# google-maps-polygon-labels
 Created with CodeSandbox
